@@ -2,7 +2,7 @@
 
 ## Topic 
 
-Heart rate estimation with PPG data by using biLSTM
+Heart rate estimation with PPG data by using biLSTM.
 
 ## data source 
 
